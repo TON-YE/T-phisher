@@ -1,5 +1,5 @@
 FROM debian:latest
-LABEL MAINTAINER="https://github.com/DG_SM4RT/Tphisher"
+LABEL MAINTAINER="https://github.com/TON-YE/Tphisher"
 
 WORKDIR /Tphisher/
 ADD . /Tphisher
